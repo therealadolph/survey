@@ -1,7 +1,3 @@
-from turtle import color
-import colorama
-from colorama import Fore, Back, Style
-colorama.init()
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
