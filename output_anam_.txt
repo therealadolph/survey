@@ -1,0 +1,7 @@
+Que,Ans,Descr,Responder
+1, A,  Definitely, anam
+2, C,  Rarely often, anam
+3, A,  IAS Ghana Limited, anam
+4, C,  Relatively Slow, anam
+5, C,  Somewhat inconvenient, anam
+6, C,  Maybe, anam

@@ -1,0 +1,7 @@
+Que,Ans,Descr,Responder
+1, A,  Definitely, snr kojo
+2, C,  Rarely often, snr kojo
+3, C,  DHl Express, snr kojo
+4, A,  Almost Instantly, snr kojo
+5, C,  Somewhat inconvenient, snr kojo
+6, C,  Maybe, snr kojo

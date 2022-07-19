@@ -1,0 +1,7 @@
+Que,Ans,Descr,Responder
+1, C,  Maybe, fghj
+2, A,  Very often, fghj
+3, D,  STC bus, fghj
+4, C,  Relatively Slow, fghj
+5, D,  Pretty inconvenient, fghj
+6, B,  Somehow, fghj

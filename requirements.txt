@@ -1,0 +1,5 @@
+colorama==0.4.4
+matplotlib==3.5.2
+openpyxl==3.0.10
+pandas==1.4.2
+streamlit==1.10.0

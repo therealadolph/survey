@@ -1,0 +1,7 @@
+Que,Ans,Descr,Responder
+1, A,  Definitely, Nana Kwame
+2, A,  Very often, Nana Kwame
+3, B,  OAk Express Limited, Nana Kwame
+4, C,  Relatively Slow, Nana Kwame
+5, C,  Somewhat inconvenient, Nana Kwame
+6, B,  Somehow, Nana Kwame

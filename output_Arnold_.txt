@@ -1,0 +1,7 @@
+Que,Ans,Descr,Responder
+1, C,  Maybe, Arnold
+2, B,  Often, Arnold
+3, C,  DHl Express, Arnold
+4, B,  Very Quick, Arnold
+5, D,  Pretty inconvenient, Arnold
+6, D,  Not Sure, Arnold
