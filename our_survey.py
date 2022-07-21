@@ -75,7 +75,7 @@ responses_list = []
 
 
 def aftsub():
-    st.success('Thank you for your submittion)
+    st.success('Thank you for your submittion')
 
 
 
