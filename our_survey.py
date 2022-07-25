@@ -94,7 +94,7 @@ def save_results_to_text(responder_name, selections_dict):
     
         )
 
-    with open('https://github.com/therealadolph/survey/blob/master/output_files.csv', 'a', newline='') as f:
+    with open('output_files.csv', 'a', newline='') as f:
         header = ['name', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6']
         thewriter = csv.DictWriter(f, fieldnames=header)
 
